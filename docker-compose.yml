@@ -1,0 +1,7 @@
+version: '3'
+services: 
+    ngnix-server: 
+        build: .
+        ports: 
+            - "8080:80"
+            
