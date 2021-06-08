@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          i was changed 
+          hello i am running inside docker 
         </p>
         <a
           className="App-link"
